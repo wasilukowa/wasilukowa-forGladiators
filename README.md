@@ -1,12 +1,14 @@
 
-## My name is Natalia and I am a Junior Front End Developer :)
+# My name is Natalia and I am a Junior Front End Developer :)
+### Currently I get back to study in Local Academy.
+#### My aim is to become React Developer so please, keep you fingers crossed :)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasilukowa)](https://github.com/wasilukowa/github-readme-stats)
+<img src="/src/beep-boop-boop.jpg" alt="Beep Boop Boop illustration :)" width="400px"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasilukowa)]
+![Wasiluk's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasilukowa)
 
-!(/src/beep-boop-boop.jpg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasilukowa)
 
 <!--
 **wasilukowa/wasilukowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
