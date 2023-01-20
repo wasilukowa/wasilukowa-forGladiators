@@ -1,4 +1,10 @@
-### Hi there 👋
+
+## My name is Natalia and I am a Junior Front End Developer :)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasilukowa)](https://github.com/wasilukowa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasilukowa)](https://github.com/wasilukowa/github-readme-stats)
 
 <!--
 **wasilukowa/wasilukowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
